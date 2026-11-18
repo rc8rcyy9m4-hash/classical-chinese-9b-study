@@ -30,3 +30,4 @@
 - [2026-11-17 · 文言续训、句法辨析与原典成文](reports/2026-11-17-stage-update.md)
 - [2026-11-18 · 语料与评测资源清单](reports/2026-11-18-resource-inventory.md)
 - [2026-11-18 · 文言 9B 训练流程、结果与瓶颈](reports/2026-11-18-training-and-bottlenecks.md)
+- [2026-11-18 · WenMind 外部文言写作百题对照](reports/2026-11-18-wenmind-writing-100.md)
