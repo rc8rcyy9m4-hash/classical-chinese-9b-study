@@ -33,3 +33,4 @@
 - [2026-11-18 · WenMind 外部文言写作百题对照](reports/2026-11-18-wenmind-writing-100.md)
 - [2026-11-19 · 文言写作两项机器对照](reports/2026-11-19-writing-paper-experiments.md)
 - [2026-11-19 · 162 条文言指令的简体重训对照](reports/2026-11-19-simplified-162.md)
+- [2026-11-19 · 162 文言监督后的续训剂量对照](reports/2026-11-19-162-continued-pretraining.md)
